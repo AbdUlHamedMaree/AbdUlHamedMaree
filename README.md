@@ -1,51 +1,128 @@
-- 👋 Hi, I’m Abd Ul-Hamed Maree
-- 👀 I’m interested in programming in general but I love ❤️ teaching, singing, 3D moduling.
-- 🌱 I’m currently learning how to write better commits and make some better testing units.
+- 👋 Hi, I’m AbdUlHameed Muree
 - 📫 How to reach me <hmidmrii@gmail.com>
 
 # Now.
+I'm working at **ShortPoint** company as Front End Team Leader.
 
-I'm working at Scandinavia Tech company as Js Full Stack Developer (ReactJs, NestJs, React-Native).
+# Skills
 
-## Skills
-- Programming Languages
-  - C#. ⭐⭐⭐⭐⭐
-  - JS (ES6, TS). ⭐⭐⭐⭐⭐
-  - Python. ⭐⭐⭐
+## Programming Languages:
+- JS (ESNext, TS) ⭐⭐⭐⭐⭐
+- C# ⭐⭐⭐⭐
+- Python ⭐⭐⭐
 
-- Front End
-  - React Js. ⭐⭐⭐⭐⭐
-  - Next Js. ⭐⭐⭐⭐⭐
-  - Redux (Toolkit). ⭐⭐⭐⭐⭐
-  - Framer Motion. ⭐⭐⭐⭐
-  - Ant Design. ⭐⭐⭐⭐⭐
-  - Material UI. ⭐⭐⭐⭐⭐
-  - React Form Hook. ⭐⭐⭐⭐⭐
-  - Zustand. ⭐⭐⭐⭐⭐
+## Front End ⭐⭐⭐⭐⭐
+- Frameworks:
+  - React Js ⭐⭐⭐⭐⭐
+  - Next Js ⭐⭐⭐⭐⭐
+  - Astro ⭐⭐⭐⭐⭐
+- State Management:
+  - Redux (Toolkit) ⭐⭐⭐⭐⭐
+  - Zustand ⭐⭐⭐⭐⭐
+  - Jotai ⭐⭐⭐⭐⭐
+  - Recoil ⭐⭐⭐⭐⭐
+- UI Libs:
+  - MUI ⭐⭐⭐⭐⭐
+  - Ant Design ⭐⭐⭐⭐⭐
+  - TailwindCss ⭐⭐⭐⭐⭐
+  - StyledComponents - Css-in-Js - EmotionJs ⭐⭐⭐⭐⭐
+- Animations:
+  - Framer Motion ⭐⭐⭐⭐⭐
+  - Lottie Player ⭐⭐⭐⭐⭐
+- Others:
+  - React Form Hook ⭐⭐⭐⭐⭐
+  - React Query ⭐⭐⭐⭐⭐
   - Apollo Client ⭐⭐⭐⭐
+  - GraphQl ⭐⭐⭐⭐⭐
+  - Google Services ⭐⭐⭐⭐⭐
+  - Zod ⭐⭐⭐⭐⭐
   - ...
-  
-- Back End
-  - Nest Js. ⭐⭐⭐⭐
-  - Graphql (Apollo Server). ⭐⭐⭐
-  - Mongodb. ⭐⭐⭐
-  - Mongoose. ⭐⭐⭐
-  - Asp.Net (Core 3). ⭐⭐⭐
-  - Sql Server. ⭐⭐⭐
-  - Entity Framwork. ⭐⭐⭐
-  
-- Others
-  - OOP. ⭐⭐⭐⭐
-  - Functional Programming. ⭐⭐⭐⭐⭐
 
-## Some Of My Work
+## Mobile (React Native) ⭐⭐⭐⭐⭐
+- React Native Paper ⭐⭐⭐⭐⭐
+- React Native Reanimated ⭐⭐⭐⭐⭐
+- React Native Gesture Handler ⭐⭐⭐⭐⭐
+- Lottie Player ⭐⭐⭐⭐⭐
+- Google Services ⭐⭐⭐⭐⭐
 
-### Not Complated
-- E-Commerce [b.atna](https://demo.cubeta.io)
-- E-Commerce [WAW Winner](https://demo.wawwinner.ae/test)
-- LMS [UAQ Training](http://lms.its.ae)
+## Back End ⭐⭐⭐
+- Nest Js. ⭐⭐⭐
+- Graphql (Apollo Server). ⭐⭐⭐
+- Mongodb. ⭐⭐⭐
+- Mongoose. ⭐⭐⭐
 
-### Complated
-- E-Commerce [dtic](https://next.dtic.co)
-- Clinic [Lamar Clinic](https://lamar-clinic.com)
-- Many dashboards.
+## Others
+- Functional Programming. ⭐⭐⭐⭐⭐
+
+# Projects
+
+## WAW Winner (e-commerce)
+### Libs used
+- ReactJs
+- Ant Design
+- Redux + React Context
+- Axios
+
+## LMS (UAQ Training)
+### Libs used
+- ReactJs
+- Ant Design
+- Redux + React Context
+- Axios
+
+## DTIC (e-commerce)
+[Link](https://next.dtic.co)
+### Libs used
+- NextJs
+- MaterialUi
+- ReduxToolkit
+- Axios
+
+## IZone (e-commerce)
+### Libs used
+- ReactJs
+- MaterialUi
+- ReduxToolkit
+- Axios
+
+## B.Atna (e-commerce)
+### Libs used
+- NextJs
+- MaterialUi
+- ReduxToolkit
+- Axios
+
+## LamarClinic
+### Libs used
+- NextJs
+- MaterialUi
+- Zustand
+- React Query
+
+## Dashboard Generator (Smart Admin)
+The idea was to build a dashboard that generates smaller dashboards
+- ReactJs
+- MaterialUi
+- Zustand
+- React Query
+
+## Aqua Renta Tracking Dashboard (Vehicle Tracking and management)
+- NextJs
+- MaterialUi
+- Jotai
+- React Query
+
+## Pemo (Banking solution)
+[Link](https://app.pemo.io/)
+- NextJs
+- MaterialUi
+- Zustand
+- React Query
+
+## ShortPoint (SharePoint Extension)
+it's a page builder extionsion for SharePoint,
+I'm working on the extension not the homepage (Link)[https://www.shortpoint.com/]
+- ReactJs
+- Scss
+- Zustand + Redux
+- React Query
